@@ -4,7 +4,7 @@ from alpaca_trade_api.stream import Stream
 from datetime import datetime
 
 plt.style.use('seaborn')
-
+    
 class AlpacaStream_Plot(AlpacaStream):
     def __init__(self, config_path, symbols):
         super().__init__(config_path, symbols)
