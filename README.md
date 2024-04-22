@@ -17,4 +17,4 @@ Python, Tensorflow, Alpaca API, asyncio,
 * **model folder:** The final model is under this folder
 * **requirements.txt:** Required packages is listed in this file
 * **config.ini:** Configuration info is listed in this file
-
+    
